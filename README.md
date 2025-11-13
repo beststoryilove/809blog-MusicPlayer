@@ -1,5 +1,8 @@
 # 809blog-MusicPlayer
 
+2025-11-13正式废弃809blog-Musicplayer及其附属项目，请移步至HarmoniaMusicplayer
+![Harmonia](https://github.com/beststoryilove/Harmonia-MusicPlayer)
+
 一个业余项目，使用deepseek-v3/R1生成
 
 音乐平台为网易云（2025.05.01更新：未来考虑支持更多平台，例如酷狗，QQ，YouTube）
